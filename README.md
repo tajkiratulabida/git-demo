@@ -40,4 +40,13 @@ php artisan storage:link
 php artisan serve
 
 
+🌐 Usage:
+🔐 Register/Login to access the dashboard.
+➕ Use the Add Product button to create new products.
+✍️ Edit or 🗑️ delete existing products from the listing.
+🔍 Utilize DataTables for efficient searching and filtering.
+
+
+🎉 Contributions
+Contributions, issues, and feature requests are welcome! Feel free to submit a pull request. 😊
 
